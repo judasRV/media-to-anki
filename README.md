@@ -2,6 +2,8 @@
 
 A simple desktop tool to create Anki cards with audio (and optional images) from video/audio files and subtitles.
 
+<img width="1136" height="541" alt="example" src="https://github.com/user-attachments/assets/669be7b9-d767-40b5-a990-e73580b456be" />
+
 ## Features
 
 * Extract audio clips from video or audio files
