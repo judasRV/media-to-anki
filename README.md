@@ -35,9 +35,9 @@ A simple desktop tool to create Anki cards with audio (and optional images) from
 
 Install dependencies:
 
-```
-pip install -r requirements.txt
-```
+genanki
+ffmpeg-python*
+pysrt
 
 ## Build executable
 
@@ -55,7 +55,6 @@ Exports an `.apkg` file ready to import into Anki.
 
 * Audio is embedded in the deck
 * Image is optional per card
-* Deck name is derived from the exported file name
 
 ## Future improvements
 
