@@ -65,4 +65,4 @@ Exports an `.apkg` file ready to import into Anki.
 
 ## License
 
-MIT
+GPL
